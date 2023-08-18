@@ -104,5 +104,5 @@ print("The original input is:",inp)
  
 result=swap_first_last_3(inp)
  
-# Printing the result
+# Printing the resultt
 print("The output after swap first and last is:",result)
